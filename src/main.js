@@ -9,7 +9,7 @@ import Feature from './components/Feature.vue';
 const app = createApp(App);
 
 app.use(StoryblokVue, {
-  accessToken: '9I0NMaGJZQaJQ4Qzmm5cHwtt',
+  accessToken: 'ESMhO0TV3diKSAheXEv1xQtt',
   use: [apiPlugin],
 });
 
